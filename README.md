@@ -12,6 +12,8 @@ Team einzubringen und weiterzuentwickeln.
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,git,github&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=gradle&perline=3)](https://skillicons.dev)
 
+Android, Jetpack Compose, Kotlin-Multiplatform, Koin
+
 
 ## 📫Kontakt:
 Du findest mich auf [LinkedIn](https://www.linkedin.com/in/sergei-schirokow-0baa22373/) oder

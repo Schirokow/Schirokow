@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, ich bin [Sergei Schirokow] 👋
+
+## Über mich:
+Ich bin ein passionierter Junior App-Entwickler, der gerade das
+"appvanced Experts Program" abschließt. Mich fasziniert, wie man
+mit Code nützliche und elegante Lösungen für alltägliche
+Probleme schaffen kann. Aktuell suche ich eine Junior-Position,
+um meine Fähigkeiten in Kotlin und Jetpack Compose in einem kreativen
+Team einzubringen und weiterzuentwickeln.
+
+## Tech-Stack & Werkzeuge:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,ktor,firebase,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gradle&perline=3)](https://skillicons.dev)
+
+## 📫Kontakt:
+Du findest mich auf [LinkedIn](Link-zu-deinem-Profil) oder
+kannst mir eine E-Mail an [sschirokow@freenet.de] schreiben.
 
 <!--
 **Schirokow/Schirokow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

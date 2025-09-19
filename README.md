@@ -1,4 +1,4 @@
-## Hi, ich bin [Sergei Schirokow] 👋
+## Hi, ich bin Sergei Schirokow 👋
 
 ## Über mich:
 Ich bin ein passionierter Junior App-Entwickler, der gerade das
@@ -17,7 +17,7 @@ Android, Jetpack Compose, Kotlin-Multiplatform, Koin
 
 ## 📫Kontakt:
 Du findest mich auf [LinkedIn](https://www.linkedin.com/in/sergei-schirokow-0baa22373/) oder
-kannst mir eine E-Mail an [sschirokow@freenet.de] schreiben.
+kannst mir eine E-Mail an sschirokow@freenet.de schreiben.
 
 <!--
 **Schirokow/Schirokow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
